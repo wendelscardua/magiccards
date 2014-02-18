@@ -1,0 +1,19 @@
+
+<cards>
+  <name>Prossh-sideboard</name>
+  <key>Commander Decks/Prossh-sideboard</key>
+  <comment></comment>
+  <type>deck</type>
+  <list>
+    <mcp>
+      <card>
+        <id>376461</id>
+        <name>Prossh, Skyraider of Kher</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Prossh-sideboard</location>
+      <ownership>true</ownership>
+    </mcp>
+  </list>
+</cards>

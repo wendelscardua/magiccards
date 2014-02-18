@@ -858,14 +858,5 @@
       <location>Commander Decks/Marath</location>
       <ownership>true</ownership>
     </mcp>
-    <mcp>
-      <card>
-        <id>376404</id>
-        <name>Marath, Will of the Wild</name>
-        <edition>Commander 2013 Edition</edition>
-      </card>
-      <count>1</count>
-      <location>Commander Decks/Marath</location>
-    </mcp>
   </list>
 </cards>

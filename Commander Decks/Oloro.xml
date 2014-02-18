@@ -788,15 +788,5 @@
       <location>Commander Decks/Oloro</location>
       <ownership>true</ownership>
     </mcp>
-    <mcp>
-      <card>
-        <id>376436</id>
-        <name>Oloro, Ageless Ascetic</name>
-        <edition>Commander 2013 Edition</edition>
-      </card>
-      <count>1</count>
-      <location>Commander Decks/Oloro</location>
-      <ownership>true</ownership>
-    </mcp>
   </list>
 </cards>

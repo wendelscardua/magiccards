@@ -828,14 +828,5 @@
       <location>Commander Decks/Derevi</location>
       <ownership>true</ownership>
     </mcp>
-    <mcp>
-      <card>
-        <id>376305</id>
-        <name>Derevi, Empyrial Tactician</name>
-        <edition>Commander 2013 Edition</edition>
-      </card>
-      <count>1</count>
-      <location>Commander Decks/Derevi</location>
-    </mcp>
   </list>
 </cards>

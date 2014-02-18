@@ -1,0 +1,19 @@
+
+<cards>
+  <name>Rafiq of the Many-sideboard</name>
+  <key>Commander Decks/Rafiq of the Many-sideboard</key>
+  <comment></comment>
+  <type>deck</type>
+  <list>
+    <mcp>
+      <card>
+        <id>174948</id>
+        <name>Rafiq of the Many</name>
+        <edition>Shards of Alara</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many-sideboard</location>
+      <ownership>true</ownership>
+    </mcp>
+  </list>
+</cards>

@@ -10,16 +10,6 @@
   <list>
     <mcp>
       <card>
-        <id>174948</id>
-        <name>Rafiq of the Many</name>
-        <edition>Shards of Alara</edition>
-      </card>
-      <count>1</count>
-      <location>Commander Decks/Rafiq of the Many</location>
-      <ownership>true</ownership>
-    </mcp>
-    <mcp>
-      <card>
         <id>157394</id>
         <name>Hallowed Burial</name>
         <edition>Eventide</edition>
@@ -890,21 +880,21 @@
     </mcp>
     <mcp>
       <card>
-        <id>249804</id>
-        <name>Island</name>
-        <edition>Magic: The Gathering-Commander</edition>
-      </card>
-      <count>2</count>
-      <location>Commander Decks/Rafiq of the Many</location>
-      <ownership>true</ownership>
-    </mcp>
-    <mcp>
-      <card>
         <id>249812</id>
         <name>Plains</name>
         <edition>Magic: The Gathering-Commander</edition>
       </card>
       <count>4</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>249804</id>
+        <name>Island</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>2</count>
       <location>Commander Decks/Rafiq of the Many</location>
       <ownership>true</ownership>
     </mcp>

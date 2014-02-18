@@ -5,19 +5,10 @@
   <comment></comment>
   <type>deck</type>
   <properties>
+    <property name="format" value="Commander"/>
     <property name="virtual" value="false"/>
   </properties>
   <list>
-    <mcp>
-      <card>
-        <id>236499</id>
-        <name>Zedruu the Greathearted</name>
-        <edition>Magic: The Gathering-Commander</edition>
-      </card>
-      <count>1</count>
-      <location>Commander Decks/Zedruu the Greathearted</location>
-      <ownership>true</ownership>
-    </mcp>
     <mcp>
       <card>
         <id>2305</id>

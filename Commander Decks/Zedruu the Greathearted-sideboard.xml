@@ -1,0 +1,19 @@
+
+<cards>
+  <name>Zedruu the Greathearted-sideboard</name>
+  <key>Commander Decks/Zedruu the Greathearted-sideboard</key>
+  <comment></comment>
+  <type>deck</type>
+  <list>
+    <mcp>
+      <card>
+        <id>236499</id>
+        <name>Zedruu the Greathearted</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted-sideboard</location>
+      <ownership>true</ownership>
+    </mcp>
+  </list>
+</cards>

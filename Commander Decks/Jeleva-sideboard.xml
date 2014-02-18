@@ -1,0 +1,19 @@
+
+<cards>
+  <name>Jeleva-sideboard</name>
+  <key>Commander Decks/Jeleva-sideboard</key>
+  <comment></comment>
+  <type>deck</type>
+  <list>
+    <mcp>
+      <card>
+        <id>376382</id>
+        <name>Jeleva, Nephalia's Scourge</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Jeleva-sideboard</location>
+      <ownership>true</ownership>
+    </mcp>
+  </list>
+</cards>

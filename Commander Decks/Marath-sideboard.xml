@@ -1,0 +1,19 @@
+
+<cards>
+  <name>Marath-sideboard</name>
+  <key>Commander Decks/Marath-sideboard</key>
+  <comment></comment>
+  <type>deck</type>
+  <list>
+    <mcp>
+      <card>
+        <id>376404</id>
+        <name>Marath, Will of the Wild</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Marath-sideboard</location>
+      <ownership>true</ownership>
+    </mcp>
+  </list>
+</cards>
