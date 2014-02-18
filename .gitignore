@@ -16,6 +16,9 @@ local.properties
 .settings/
 .loadpath
 
+# MtG
+MagicDB
+
 # External tool builders
 .externalToolBuilders/
 
