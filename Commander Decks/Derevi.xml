@@ -1,0 +1,841 @@
+
+<cards>
+  <name>Derevi</name>
+  <key>Commander Decks/Derevi</key>
+  <comment></comment>
+  <type>deck</type>
+  <properties>
+    <property name="virtual" value="true"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>376255</id>
+        <name>Azorius Chancery</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376256</id>
+        <name>Azorius Guildgate</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376263</id>
+        <name>Bant Panorama</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376280</id>
+        <name>Command Tower</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376324</id>
+        <name>Evolving Wilds</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376326</id>
+        <name>Faerie Conclave</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376477</id>
+        <name>Rupture Spire</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376479</id>
+        <name>Saltcrusted Steppe</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376484</id>
+        <name>Seaside Citadel</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376485</id>
+        <name>Secluded Steppe</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376487</id>
+        <name>Sejiri Refuge</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376490</id>
+        <name>Selesnya Guildgate</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376492</id>
+        <name>Selesnya Sanctuary</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376500</id>
+        <name>Simic Guildgate</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376541</id>
+        <name>Temple of the False God</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376548</id>
+        <name>Terramorphic Expanse</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376561</id>
+        <name>Transguild Promenade</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376342</id>
+        <name>Forest</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>6</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376454</id>
+        <name>Plains</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>7</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376373</id>
+        <name>Island</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>7</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376438</id>
+        <name>Opal Palace</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376389</id>
+        <name>Kazandu Tuskcaller</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376362</id>
+        <name>Hada Spy Patrol</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376491</id>
+        <name>Selesnya Guildmage</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376328</id>
+        <name>Farhaven Elf</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376444</id>
+        <name>Phantom Nantuko</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376409</id>
+        <name>Mirror Entity</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376523</id>
+        <name>Stonecloaker</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376301</id>
+        <name>Deceiver Exarch</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376331</id>
+        <name>Fiend Hunter</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376338</id>
+        <name>Flickerwisp</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376550</id>
+        <name>Thornwind Faeries</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376589</id>
+        <name>Winged Coatl</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376591</id>
+        <name>Wonder</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376317</id>
+        <name>Dungeon Geists</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376402</id>
+        <name>Lu Xun, Scholar General</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376239</id>
+        <name>Aerie Mystics</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376387</id>
+        <name>Karmic Guide</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376237</id>
+        <name>Acidic Slime</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376254</id>
+        <name>Azami, Lady of Scrolls</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376476</id>
+        <name>Rubinia Soulsinger</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376420</id>
+        <name>Murkfiend Liege</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376503</id>
+        <name>Skyward Eye Prophets</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376410</id>
+        <name>Mistmeadow Witch</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376449</id>
+        <name>Pilgrim's Eye</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376243</id>
+        <name>Angel of Finality</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376310</id>
+        <name>Diviner Spirit</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376474</id>
+        <name>Roon of the Hidden Realm</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376312</id>
+        <name>Djinn of Infinite Deceits</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376262</id>
+        <name>Bane of Progress</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376508</id>
+        <name>Sol Ring</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376493</id>
+        <name>Selesnya Signet</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376501</id>
+        <name>Simic Signet</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376537</id>
+        <name>Swiftfoot Boots</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376258</id>
+        <name>Azorius Keyrune</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376265</id>
+        <name>Basalt Monolith</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376296</id>
+        <name>Darksteel Ingot</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376398</id>
+        <name>Leonin Bladetrap</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376551</id>
+        <name>Thousand-Year Elixir</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376553</id>
+        <name>Thunderstaff</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376538</id>
+        <name>Sword of the Paruns</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376337</id>
+        <name>Flickerform</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376455</id>
+        <name>Presence of Gond</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376283</id>
+        <name>Control Magic</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376397</id>
+        <name>Leafdrake Roost</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376245</id>
+        <name>Arcane Denial</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376489</id>
+        <name>Selesnya Charm</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376394</id>
+        <name>Krosan Grip</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376273</id>
+        <name>Borrowing 100,000 Arrows</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376582</id>
+        <name>Wash Out</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376531</id>
+        <name>Surveyor's Scope</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376281</id>
+        <name>Conjurer's Closet</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376297</id>
+        <name>Darksteel Mutation</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376295</id>
+        <name>Curse of the Forsaken</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376292</id>
+        <name>Curse of Inertia</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376293</id>
+        <name>Curse of Predation</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376240</id>
+        <name>Æthermage's Touch</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376563</id>
+        <name>Unexpectedly Absent</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376268</id>
+        <name>Blue Sun's Zenith</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376473</id>
+        <name>Restore</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376543</id>
+        <name>Tempt with Glory</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376392</id>
+        <name>Kirtar's Wrath</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376305</id>
+        <name>Derevi, Empyrial Tactician</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Derevi</location>
+    </mcp>
+  </list>
+</cards>

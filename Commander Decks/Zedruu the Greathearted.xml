@@ -1,0 +1,846 @@
+
+<cards>
+  <name>Zedruu the Greathearted</name>
+  <key>Commander Decks/Zedruu the Greathearted</key>
+  <comment></comment>
+  <type>deck</type>
+  <properties>
+    <property name="virtual" value="false"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>236499</id>
+        <name>Zedruu the Greathearted</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>2305</id>
+        <name>Smoke</name>
+        <edition>Fourth Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>270969</id>
+        <name>Sphere of Safety</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373557</id>
+        <name>Dissolve</name>
+        <edition>Theros</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>190556</id>
+        <name>Hive Mind</name>
+        <edition>Magic 2010</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>49528</id>
+        <name>Confusion in the Ranks</name>
+        <edition>Mirrodin</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>47274</id>
+        <name>Grip of Chaos</name>
+        <edition>Scourge</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>369013</id>
+        <name>Possibility Storm</name>
+        <edition>Dragon's Maze</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>40191</id>
+        <name>Words of War</name>
+        <edition>Onslaught</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>23056</id>
+        <name>Wild Research</name>
+        <edition>Apocalypse</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>13152</id>
+        <name>Delusions of Mediocrity</name>
+        <edition>Seventh Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>292762</id>
+        <name>Lonely Sandbar</name>
+        <edition>Duel Decks: Izzet vs. Golgari</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>288876</id>
+        <name>Reliquary Tower</name>
+        <edition>Magic 2013</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>220371</id>
+        <name>Ghost Quarter</name>
+        <edition>Innistrad</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>2010</id>
+        <name>Rainbow Vale</name>
+        <edition>Fallen Empires</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>270966</id>
+        <name>Azorius Guildgate</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>366390</id>
+        <name>Boros Guildgate</name>
+        <edition>Gatecrash</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>253550</id>
+        <name>Transguild Promenade</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>376280</id>
+        <name>Command Tower</name>
+        <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>243216</id>
+        <name>Shimmering Grotto</name>
+        <edition>Innistrad</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>370612</id>
+        <name>Angelic Accord</name>
+        <edition>Magic 2014 Core Set</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>270961</id>
+        <name>Izzet Guildgate</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>241987</id>
+        <name>Sulfur Falls</name>
+        <edition>Innistrad</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>269666</id>
+        <name>Evolving Wilds</name>
+        <edition>Magic 2013</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>213775</id>
+        <name>Contested War Zone</name>
+        <edition>Mirrodin Besieged</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>97220</id>
+        <name>Izzet Boilerworks</name>
+        <edition>Guildpact</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>109761</id>
+        <name>Gemstone Mine</name>
+        <edition>Time Spiral "Timeshifted"</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>253566</id>
+        <name>Dispel</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>241985</id>
+        <name>Dissipate</name>
+        <edition>Innistrad</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>230757</id>
+        <name>Negate</name>
+        <edition>Magic 2012</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>270369</id>
+        <name>Syncopate</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>370790</id>
+        <name>Wild Ricochet</name>
+        <edition>Magic 2014 Core Set</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>270798</id>
+        <name>Cyclonic Rift</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>130638</id>
+        <name>Pact of the Titan</name>
+        <edition>Future Sight</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>130680</id>
+        <name>Intervention Pact</name>
+        <edition>Future Sight</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>8902</id>
+        <name>Goblin Game</name>
+        <edition>Planeshift</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>220139</id>
+        <name>Day of Judgment</name>
+        <edition>Magic 2012</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>370681</id>
+        <name>Elixir of Immortality</name>
+        <edition>Magic 2014 Core Set</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>189147</id>
+        <name>Font of Mythos</name>
+        <edition>Conflux</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>369017</id>
+        <name>Azorius Cluestone</name>
+        <edition>Dragon's Maze</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>368997</id>
+        <name>Boros Cluestone</name>
+        <edition>Dragon's Maze</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>2042</id>
+        <name>Fellwar Stone</name>
+        <edition>Fourth Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>370670</id>
+        <name>Strionic Resonator</name>
+        <edition>Magic 2014 Core Set</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>366262</id>
+        <name>Prophetic Prism</name>
+        <edition>Gatecrash</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>214035</id>
+        <name>Knowledge Pool</name>
+        <edition>Mirrodin Besieged</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373669</id>
+        <name>Pyxis of Pandemonium</name>
+        <edition>Theros</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>213749</id>
+        <name>Darksteel Plate</name>
+        <edition>Mirrodin Besieged</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>370796</id>
+        <name>Dismiss into Dream</name>
+        <edition>Magic 2014 Core Set</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>370622</id>
+        <name>Clone</name>
+        <edition>Magic 2014 Core Set</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>204989</id>
+        <name>Serra Ascendant</name>
+        <edition>Magic 2011</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>230788</id>
+        <name>Laboratory Maniac</name>
+        <edition>Innistrad</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>220378</id>
+        <name>Creepy Doll</name>
+        <edition>Innistrad</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373550</id>
+        <name>Akroan Horse</name>
+        <edition>Theros</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>198163</id>
+        <name>Echo Mage</name>
+        <edition>Rise of the Eldrazi</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>292738</id>
+        <name>Niv-Mizzet, the Firemind</name>
+        <edition>Duel Decks: Izzet vs. Golgari</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>378420</id>
+        <name>Perplexing Chimera</name>
+        <edition>Born of the Gods</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>198364</id>
+        <name>Bazaar Trader</name>
+        <edition>Worldwake</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>253567</id>
+        <name>Palisade Giant</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>368961</id>
+        <name>Ætherling</name>
+        <edition>Dragon's Maze</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>221179</id>
+        <name>Ludevic's Test Subject</name>
+        <edition>Innistrad</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>214047</id>
+        <name>Psychosis Crawler</name>
+        <edition>Mirrodin Besieged</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373617</id>
+        <name>Prognostic Sphinx</name>
+        <edition>Theros</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>369031</id>
+        <name>Ral Zarek</name>
+        <edition>Dragon's Maze</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>2515</id>
+        <name>Illusions of Grandeur</name>
+        <edition>Ice Age</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>141996</id>
+        <name>Puca's Mischief</name>
+        <edition>Shadowmoor</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>3123</id>
+        <name>Thought Lash</name>
+        <edition>Alliances</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>1367</id>
+        <name>Swords to Plowshares</name>
+        <edition>Revised Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>204972</id>
+        <name>Wild Evocation</name>
+        <edition>Magic 2011</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>39919</id>
+        <name>Custody Battle</name>
+        <edition>Onslaught</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>245187</id>
+        <name>Time Reversal</name>
+        <edition>Magic 2012</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>378398</id>
+        <name>Silent Sentinel</name>
+        <edition>Born of the Gods</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>240203</id>
+        <name>Tandem Lookout</name>
+        <edition>Avacyn Restored</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>370798</id>
+        <name>Path of Bravery</name>
+        <edition>Magic 2014 Core Set</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>88982</id>
+        <name>Mindmoil</name>
+        <edition>Ravnica: City of Guilds</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>230774</id>
+        <name>Balefire Dragon</name>
+        <edition>Innistrad</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>201967</id>
+        <name>Mountain</name>
+        <edition>Zendikar</edition>
+      </card>
+      <count>6</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>201963</id>
+        <name>Island</name>
+        <edition>Zendikar</edition>
+      </card>
+      <count>8</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>195163</id>
+        <name>Plains</name>
+        <edition>Zendikar</edition>
+      </card>
+      <count>5</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>21403</id>
+        <name>Kor Haven</name>
+        <edition>Nemesis</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+    </mcp>
+    <mcp>
+      <card>
+        <id>233201</id>
+        <name>Homeward Path</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+    </mcp>
+    <mcp>
+      <card>
+        <id>212240</id>
+        <name>Venser, the Sojourner</name>
+        <edition>Scars of Mirrodin</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+    </mcp>
+    <mcp>
+      <card>
+        <id>249722</id>
+        <name>Glacial Fortress</name>
+        <edition>Magic 2013</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247180</id>
+        <name>Path to Exile</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+    </mcp>
+    <mcp>
+      <card>
+        <id>189273</id>
+        <name>Exotic Orchard</name>
+        <edition>Conflux</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+    </mcp>
+  </list>
+</cards>

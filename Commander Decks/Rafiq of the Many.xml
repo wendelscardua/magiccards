@@ -1,0 +1,912 @@
+
+<cards>
+  <name>Rafiq of the Many</name>
+  <key>Commander Decks/Rafiq of the Many</key>
+  <comment></comment>
+  <type>deck</type>
+  <properties>
+    <property name="virtual" value="false"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>174948</id>
+        <name>Rafiq of the Many</name>
+        <edition>Shards of Alara</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>157394</id>
+        <name>Hallowed Burial</name>
+        <edition>Eventide</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>48048</id>
+        <name>Darksteel Ingot</name>
+        <edition>Darksteel</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247148</id>
+        <name>Eternal Witness</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247357</id>
+        <name>Tranquil Thicket</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>29792</id>
+        <name>Skycloud Expanse</name>
+        <edition>Odyssey</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>270849</id>
+        <name>Flood Plain</name>
+        <edition>Duel Decks: Venser vs. Koth</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>12955</id>
+        <name>Karmic Guide</name>
+        <edition>Urza's Legacy</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>12498</id>
+        <name>Treetop Village</name>
+        <edition>Urza's Legacy</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>87995</id>
+        <name>Congregation at Dawn</name>
+        <edition>Ravnica: City of Guilds</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>179235</id>
+        <name>Path to Exile</name>
+        <edition>Conflux</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>175396</id>
+        <name>Stoic Angel</name>
+        <edition>Shards of Alara</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>97112</id>
+        <name>Trygon Predator</name>
+        <edition>Dissension</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247181</id>
+        <name>Rupture Spire</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>230000</id>
+        <name>Edric, Spymaster of Trest</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>212240</id>
+        <name>Venser, the Sojourner</name>
+        <edition>Scars of Mirrodin</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>180592</id>
+        <name>Wargate</name>
+        <edition>Alara Reborn</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>271190</id>
+        <name>Peregrine Drake</name>
+        <edition>Planechase 2012 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>109709</id>
+        <name>Return to Dust</name>
+        <edition>Time Spiral</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>221919</id>
+        <name>Glacial Fortress</name>
+        <edition>Magic 2012</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>21403</id>
+        <name>Kor Haven</name>
+        <edition>Nemesis</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>243448</id>
+        <name>Loxodon Warhammer</name>
+        <edition>Duel Decks: Knights vs. Dragons</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>208297</id>
+        <name>Day of Judgment</name>
+        <edition>Magic 2011</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>97096</id>
+        <name>Voidslime</name>
+        <edition>Dissension</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>237005</id>
+        <name>Spell Crumple</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>109693</id>
+        <name>Mystic Snake</name>
+        <edition>Time Spiral "Timeshifted"</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>370687</id>
+        <name>Garruk, Caller of Beasts</name>
+        <edition>Magic 2014 Core Set</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>214063</id>
+        <name>Consecrated Sphinx</name>
+        <edition>Mirrodin Besieged</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247194</id>
+        <name>Simic Growth Chamber</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247317</id>
+        <name>Acidic Slime</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>378491</id>
+        <name>Courser of Kruphix</name>
+        <edition>Born of the Gods</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>111057</id>
+        <name>Draining Whelk</name>
+        <edition>Time Spiral</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>97077</id>
+        <name>Azorius Guildmage</name>
+        <edition>Dissension</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>221559</id>
+        <name>Green Sun's Zenith</name>
+        <edition>Mirrodin Besieged</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247524</id>
+        <name>Yavimaya Elder</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>233200</id>
+        <name>Champion's Helm</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>197137</id>
+        <name>Terastodon</name>
+        <edition>Worldwake</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>189273</id>
+        <name>Exotic Orchard</name>
+        <edition>Conflux</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>146746</id>
+        <name>Mystic Gate</name>
+        <edition>Shadowmoor</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>233201</id>
+        <name>Homeward Path</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>23249</id>
+        <name>Yavimaya Coast</name>
+        <edition>Apocalypse</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>253684</id>
+        <name>Hallowed Fountain</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>177560</id>
+        <name>Stirring Wildwood</name>
+        <edition>Worldwake</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>193483</id>
+        <name>Evolving Wilds</name>
+        <edition>Rise of the Eldrazi</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>44336</id>
+        <name>Temple of the False God</name>
+        <edition>Scourge</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>5157</id>
+        <name>Forbid</name>
+        <edition>Exodus</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>205124</id>
+        <name>Sunpetal Grove</name>
+        <edition>Magic 2011</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>237004</id>
+        <name>Command Tower</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>177545</id>
+        <name>Celestial Colonnade</name>
+        <edition>Worldwake</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>180609</id>
+        <name>Finest Hour</name>
+        <edition>Alara Reborn</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>236907</id>
+        <name>Solemn Simulacrum</name>
+        <edition>Magic 2012</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>185737</id>
+        <name>Oracle of Mul Daya</name>
+        <edition>Zendikar</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>136150</id>
+        <name>Akroma's Memorial</name>
+        <edition>Future Sight</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>197973</id>
+        <name>Thada Adel, Acquisitor</name>
+        <edition>Worldwake</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247349</id>
+        <name>Lonely Sandbar</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>240022</id>
+        <name>Deadeye Navigator</name>
+        <edition>Avacyn Restored</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>2367</id>
+        <name>Swords to Plowshares</name>
+        <edition>Fourth Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>205220</id>
+        <name>Clone</name>
+        <edition>Magic 2011</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373379</id>
+        <name>Sun Titan</name>
+        <edition>Duel Decks: Heroes vs. Monsters</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247337</id>
+        <name>Lightning Greaves</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>220261</id>
+        <name>Swiftfoot Boots</name>
+        <edition>Magic 2012</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>23152</id>
+        <name>Aura Shards</name>
+        <edition>Invasion</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247533</id>
+        <name>Sol Ring</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>207883</id>
+        <name>Mimic Vat</name>
+        <edition>Scars of Mirrodin</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>207882</id>
+        <name>Genesis Wave</name>
+        <edition>Scars of Mirrodin</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>50426</id>
+        <name>Hinder</name>
+        <edition>Champions of Kamigawa</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247186</id>
+        <name>Fact or Fiction</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>1263</id>
+        <name>Regrowth</name>
+        <edition>Revised Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>141817</id>
+        <name>Austere Command</name>
+        <edition>Lorwyn</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>50299</id>
+        <name>Kodama's Reach</name>
+        <edition>Champions of Kamigawa</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247359</id>
+        <name>Deadwood Treefolk</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>12148</id>
+        <name>Treachery</name>
+        <edition>Urza's Destiny</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>220582</id>
+        <name>Sakura-Tribe Elder</name>
+        <edition>Archenemy</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>247302</id>
+        <name>Mulldrifter</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>209280</id>
+        <name>Sword of Body and Mind</name>
+        <edition>Scars of Mirrodin</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>366326</id>
+        <name>Diluvian Primordial</name>
+        <edition>Gatecrash</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>249667</id>
+        <name>Boundless Realms</name>
+        <edition>Magic 2013</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>275699</id>
+        <name>Ranger's Path</name>
+        <edition>Magic 2013</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>235188</id>
+        <name>Rites of Flourishing</name>
+        <edition>Magic 2012</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>12433</id>
+        <name>Rancor</name>
+        <edition>Urza's Legacy</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>366291</id>
+        <name>Breeding Pool</name>
+        <edition>Gatecrash</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>88966</id>
+        <name>Recollect</name>
+        <edition>Ravnica: City of Guilds</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>209407</id>
+        <name>Razorverge Thicket</name>
+        <edition>Scars of Mirrodin</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>41172</id>
+        <name>Explosive Vegetation</name>
+        <edition>Onslaught</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>189631</id>
+        <name>Graypelt Refuge</name>
+        <edition>Zendikar</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>29796</id>
+        <name>Sungrass Prairie</name>
+        <edition>Odyssey</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>174950</id>
+        <name>Seaside Citadel</name>
+        <edition>Shards of Alara</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>249800</id>
+        <name>Forest</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>7</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>249804</id>
+        <name>Island</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>2</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>249812</id>
+        <name>Plains</name>
+        <edition>Magic: The Gathering-Commander</edition>
+      </card>
+      <count>4</count>
+      <location>Commander Decks/Rafiq of the Many</location>
+      <ownership>true</ownership>
+    </mcp>
+  </list>
+</cards>
