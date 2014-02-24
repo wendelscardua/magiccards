@@ -1247,16 +1247,6 @@
     </mcp>
     <mcp>
       <card>
-        <id>50527</id>
-        <name>Mycosynth Lattice</name>
-        <edition>Darksteel</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/main</location>
-      <ownership>true</ownership>
-    </mcp>
-    <mcp>
-      <card>
         <id>78606</id>
         <name>Tide of War</name>
         <edition>Champions of Kamigawa</edition>
@@ -5241,7 +5231,7 @@
         <name>Ordeal of Purphoros</name>
         <edition>Theros</edition>
       </card>
-      <count>2</count>
+      <count>3</count>
       <location>Collections/main</location>
       <ownership>true</ownership>
     </mcp>
@@ -5281,7 +5271,7 @@
         <name>Artisan's Sorrow</name>
         <edition>Theros</edition>
       </card>
-      <count>3</count>
+      <count>4</count>
       <location>Collections/main</location>
       <ownership>true</ownership>
     </mcp>
@@ -5311,7 +5301,7 @@
         <name>Karametra's Acolyte</name>
         <edition>Theros</edition>
       </card>
-      <count>2</count>
+      <count>5</count>
       <location>Collections/main</location>
       <ownership>true</ownership>
     </mcp>
@@ -5382,16 +5372,6 @@
         <edition>Theros</edition>
       </card>
       <count>3</count>
-      <location>Collections/main</location>
-      <ownership>true</ownership>
-    </mcp>
-    <mcp>
-      <card>
-        <id>373678</id>
-        <name>Destructive Revelry</name>
-        <edition>Theros</edition>
-      </card>
-      <count>1</count>
       <location>Collections/main</location>
       <ownership>true</ownership>
     </mcp>
@@ -5900,6 +5880,156 @@
         <id>376564</id>
         <name>Urza's Factory</name>
         <edition>Commander 2013 Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373666</id>
+        <name>Underworld Cerberus</name>
+        <edition>Theros</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373560</id>
+        <name>Temple of Triumph</name>
+        <edition>Theros</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373555</id>
+        <name>Colossus of Akros</name>
+        <edition>Theros</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>373678</id>
+        <name>Destructive Revelry</name>
+        <edition>Theros</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>366474</id>
+        <name>Voidwalk</name>
+        <edition>Gatecrash</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>184989</id>
+        <name>Scepter of Insight</name>
+        <edition>Conflux</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>153001</id>
+        <name>Nightshade Schemers</name>
+        <edition>Morningtide</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>213755</id>
+        <name>Quilled Slagwurm</name>
+        <edition>Mirrodin Besieged</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>194714</id>
+        <name>Spell Contortion</name>
+        <edition>Worldwake</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>26791</id>
+        <name>Coalition Flag</name>
+        <edition>Apocalypse</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>253581</id>
+        <name>Pithing Needle</name>
+        <edition>Return to Ravnica</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>141996</id>
+        <name>Puca's Mischief</name>
+        <edition>Shadowmoor</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>39919</id>
+        <name>Custody Battle</name>
+        <edition>Onslaught</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>13152</id>
+        <name>Delusions of Mediocrity</name>
+        <edition>Seventh Edition</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/main</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>370612</id>
+        <name>Angelic Accord</name>
+        <edition>Magic 2014 Core Set</edition>
       </card>
       <count>1</count>
       <location>Collections/main</location>

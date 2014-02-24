@@ -5,8 +5,8 @@
   <comment></comment>
   <type>deck</type>
   <properties>
-    <property name="format" value="Commander"/>
     <property name="virtual" value="false"/>
+    <property name="format" value="Commander"/>
   </properties>
   <list>
     <mcp>
@@ -101,16 +101,6 @@
     </mcp>
     <mcp>
       <card>
-        <id>13152</id>
-        <name>Delusions of Mediocrity</name>
-        <edition>Seventh Edition</edition>
-      </card>
-      <count>1</count>
-      <location>Commander Decks/Zedruu the Greathearted</location>
-      <ownership>true</ownership>
-    </mcp>
-    <mcp>
-      <card>
         <id>292762</id>
         <name>Lonely Sandbar</name>
         <edition>Duel Decks: Izzet vs. Golgari</edition>
@@ -194,16 +184,6 @@
         <id>243216</id>
         <name>Shimmering Grotto</name>
         <edition>Innistrad</edition>
-      </card>
-      <count>1</count>
-      <location>Commander Decks/Zedruu the Greathearted</location>
-      <ownership>true</ownership>
-    </mcp>
-    <mcp>
-      <card>
-        <id>370612</id>
-        <name>Angelic Accord</name>
-        <edition>Magic 2014 Core Set</edition>
       </card>
       <count>1</count>
       <location>Commander Decks/Zedruu the Greathearted</location>
@@ -641,16 +621,6 @@
     </mcp>
     <mcp>
       <card>
-        <id>141996</id>
-        <name>Puca's Mischief</name>
-        <edition>Shadowmoor</edition>
-      </card>
-      <count>1</count>
-      <location>Commander Decks/Zedruu the Greathearted</location>
-      <ownership>true</ownership>
-    </mcp>
-    <mcp>
-      <card>
         <id>3123</id>
         <name>Thought Lash</name>
         <edition>Alliances</edition>
@@ -674,16 +644,6 @@
         <id>204972</id>
         <name>Wild Evocation</name>
         <edition>Magic 2011</edition>
-      </card>
-      <count>1</count>
-      <location>Commander Decks/Zedruu the Greathearted</location>
-      <ownership>true</ownership>
-    </mcp>
-    <mcp>
-      <card>
-        <id>39919</id>
-        <name>Custody Battle</name>
-        <edition>Onslaught</edition>
       </card>
       <count>1</count>
       <location>Commander Decks/Zedruu the Greathearted</location>
@@ -805,15 +765,17 @@
       </card>
       <count>1</count>
       <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
     </mcp>
     <mcp>
       <card>
-        <id>249722</id>
+        <id>221919</id>
         <name>Glacial Fortress</name>
-        <edition>Magic 2013</edition>
+        <edition>Magic 2012</edition>
       </card>
       <count>1</count>
       <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
     </mcp>
     <mcp>
       <card>
@@ -832,6 +794,47 @@
       </card>
       <count>1</count>
       <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>50527</id>
+        <name>Mycosynth Lattice</name>
+        <edition>Darksteel</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>218055</id>
+        <name>Bludgeon Brawl</name>
+        <edition>New Phyrexia</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>220529</id>
+        <name>March of the Machines</name>
+        <edition>Archenemy</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
+    </mcp>
+    <mcp>
+      <card>
+        <id>230767</id>
+        <name>Curiosity</name>
+        <edition>Innistrad</edition>
+      </card>
+      <count>1</count>
+      <location>Commander Decks/Zedruu the Greathearted</location>
+      <ownership>true</ownership>
     </mcp>
   </list>
 </cards>
